@@ -7,7 +7,7 @@ from sqlalchemy.sql.schema import ColumnDefault, _get_table_key
 import logging
 
 __description__ = 'HiLo primary key generators for sqlalchemy'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 
 log = logging.getLogger()
